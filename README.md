@@ -13,7 +13,7 @@ I am currently a student studying computer science and engineering at <a href="h
 <a href="https://instagram.com/tanvir_hasan_tamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_hasan_tamal" height="30" width="40" /></a>
 <a href="https://twitter.com/tanvirh103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirh103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanvir-hasan-tamal-19a0651bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-hasan-tamal-19a0651bb" height="30" width="40" /></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 <br>
 
