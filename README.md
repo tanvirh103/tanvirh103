@@ -3,8 +3,8 @@
 <h2>About me</h2>
 I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">American International University Bangladesh</a>.I am passionate about Programming.<br><br>
 -🔭 I’m currently working on a website<br>
--🌱 I’m currently learning Coding<br>
--📫 you can reach me: <a href="mailto:tanvirh103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tanvirh103@gmail.com-red?style=flat&logo=gmail"></a>
+-🌱 I’m currently learning Coding<br><br>
+-📫 <a href="mailto:tanvirh103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tanvirh103@gmail.com-red?style=flat&logo=gmail"></a>
 
 
 <h3 align="left">Connect with me:</h3>
