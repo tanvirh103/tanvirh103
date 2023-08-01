@@ -4,10 +4,11 @@
 I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">American International University Bangladesh</a>.I am passionate about Programming.<br><br>
 -🔭 I’m currently working on a website<br>
 -🌱 I’m currently learning Coding<br><br>
--📫 <a href="mailto:tanvirh103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tanvirh103@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:tanvirh103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tanvirh103@gmail.com-red?style=flat&logo=gmail"></a>
 
 
 <h3 align="left">Connect with me:</h3>
+<hr align="left">
 <p align="left">
 <a href="https://fb.com/tanvirh103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirh103" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvir_hasan_tamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_hasan_tamal" height="30" width="40" /></a>
