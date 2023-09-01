@@ -16,7 +16,7 @@ I am currently a student studying computer science and engineering at <a href="h
 <a href="https://linkedin.com/in/tanvir-hasan-tamal-19a0651bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-hasan-tamal-19a0651bb" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&layout=compact&theme=dark"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&layout=compact&theme=dark"/></p>
 <br>
 
 ### Technologies
