@@ -16,8 +16,7 @@ I am currently a student studying computer science and engineering at <a href="h
 <a href="https://linkedin.com/in/tanvir-hasan-tamal-19a0651bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-hasan-tamal-19a0651bb" height="30" width="40" /></a>
 </p>
 <br>
-
-<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&langs_count=10&theme=dark&layout=compact">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&layout=compact&theme=dark"/></p>
 <br>
 
 ### Technologies
