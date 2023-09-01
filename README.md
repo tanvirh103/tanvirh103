@@ -38,6 +38,6 @@ I am currently a student studying computer science and engineering at <a href="h
 </td><td valign="top" width="33%">
 <br>
 <br>
-<img align="center" alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=tanvir103&show_icons=true&theme=dark">
+<img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=tanvir103&show_icons=true&theme=dark">
 <br> 
  
