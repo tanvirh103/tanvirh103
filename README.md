@@ -17,7 +17,7 @@ I am currently a student studying computer science and engineering at <a href="h
 </p>
 <br>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanvirh103&theme=dark&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanvir103&theme=dark&line_height=40&hide=css"/> </a>
 <br>
 
 ### Technologies
