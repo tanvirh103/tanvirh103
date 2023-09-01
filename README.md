@@ -17,7 +17,7 @@ I am currently a student studying computer science and engineering at <a href="h
 </p>
 <br>
 
-<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&langs_count=10&theme=dark&layout=compact">
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanvirh103&theme=dark&line_height=40&hide=css"/> </a>
 <br>
 
 ### Technologies
