@@ -17,7 +17,7 @@ I am currently a student studying computer science and engineering at <a href="h
 </p>
 <br>
 
-<img alt="Devorein::Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&langs_count=10&theme=dark&layout=compact">
+<img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir103&langs_count=10&theme=dark&layout=compact">
 <br>
 
 ### Technologies
@@ -38,6 +38,6 @@ I am currently a student studying computer science and engineering at <a href="h
 </td><td valign="top" width="33%">
 <br>
 <br>
-<img alt="Devorein::Profile Stats" src="https://github-readme-stats.vercel.app/api?username=tanvir103&show_icons=true&theme=dark">
+<img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=tanvir103&show_icons=true&theme=dark">
 <br> 
  
