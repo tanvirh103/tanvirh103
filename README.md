@@ -1,5 +1,5 @@
-###Hi there 👋, I am Tanvir Hasan Tamal
-##The best way to learn code is to work on some projects.
+### Hi there 👋, I am Tanvir Hasan Tamal
+## The best way to learn code is to work on some projects.
 <h2>About me</h2>
 I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">American International University Bangladesh</a>.I am passionate about Programming.<br><br>
 -🔭 I’m currently working on a website<br>
