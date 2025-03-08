@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I am Tanvir Hasan Tamal</h2>
 <h3>The best way to learn code is to work on some projects.</h3>
 <h2>About me</h2>
- Hi! I'm a passionate Fullstack Developer with expertise in Next.js, NestJS, PostgreSQL, and MongoDB.
+ Hi! I'm a passionate Fullstack Developer with expertise in Next.js, NestJS, PostgreSQL, and MongoDB.<br/>
 <!-- -🔭 I’m currently working on a website<br> -->
 -🌱 I’m currently learning Smart contract writing using Rust<br><br>
 <a href="mailto:tanvirh103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tanvirh103@gmail.com-red?style=flat&logo=gmail"></a>
