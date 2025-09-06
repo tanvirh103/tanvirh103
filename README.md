@@ -5,7 +5,7 @@
 ### Hi! I'm a passionate Fullstack Developer with expertise in Next.js, NestJS, PostgreSQL, and MongoDB.<br>
 ### -🔭 I’m currently working at Techy's as a Junior Software Engineer
 
-
+[![wakatime](https://wakatime.com/badge/user/94f3323b-c52d-4fca-b284-7d1168c98fd0.svg)](https://wakatime.com/@94f3323b-c52d-4fca-b284-7d1168c98fd0)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tanvirh103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvirh103/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirh103@gmail.com) 
 
