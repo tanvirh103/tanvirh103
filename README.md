@@ -2,7 +2,7 @@
 ## The best way to learn code is to work on some projects.
 
 # 💫 About Me:
-### Hi! I'm a passionate Fullstack Developer with expertise in Next.js, NestJS, PostgreSQL, and MongoDB.<br>
+### Hi! I'm a passionate Fullstack Developer with expertise in Next.js, NestJS, Express.js, PostgreSQL, and MongoDB.<br>
 ### -🔭 I’m currently working at Techy's as a Junior Software Engineer
 
 [![wakatime](https://wakatime.com/badge/user/94f3323b-c52d-4fca-b284-7d1168c98fd0.svg)](https://wakatime.com/@94f3323b-c52d-4fca-b284-7d1168c98fd0)
